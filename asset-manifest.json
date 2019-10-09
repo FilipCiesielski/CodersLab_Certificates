@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CodersLab_Certificates/static/css/main.42d5ec1f.chunk.css",
+    "main.js": "/CodersLab_Certificates/static/js/main.6be411aa.chunk.js",
+    "main.js.map": "/CodersLab_Certificates/static/js/main.6be411aa.chunk.js.map",
+    "runtime-main.js": "/CodersLab_Certificates/static/js/runtime-main.f1a3282f.js",
+    "runtime-main.js.map": "/CodersLab_Certificates/static/js/runtime-main.f1a3282f.js.map",
+    "static/js/2.877a642e.chunk.js": "/CodersLab_Certificates/static/js/2.877a642e.chunk.js",
+    "static/js/2.877a642e.chunk.js.map": "/CodersLab_Certificates/static/js/2.877a642e.chunk.js.map",
+    "index.html": "/CodersLab_Certificates/index.html",
+    "precache-manifest.350a17bbb26cf91e940b8792cfd9d1a0.js": "/CodersLab_Certificates/precache-manifest.350a17bbb26cf91e940b8792cfd9d1a0.js",
+    "service-worker.js": "/CodersLab_Certificates/service-worker.js",
+    "static/css/main.42d5ec1f.chunk.css.map": "/CodersLab_Certificates/static/css/main.42d5ec1f.chunk.css.map",
+    "static/media/CertificateMain.scss": "/CodersLab_Certificates/static/media/CL_dyplom_podstawowy_FC-1.1aa5a345.png",
+    "static/media/CertificatePortfolioLab.scss": "/CodersLab_Certificates/static/media/CL_suplement JavaScript Portfolio Lab_PL_47 (1)-1.39d62c59.png",
+    "static/media/Supplement.scss": "/CodersLab_Certificates/static/media/CL_suplement JavaScript_PL (1)-2.cc2fead2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1a3282f.js",
+    "static/js/2.877a642e.chunk.js",
+    "static/css/main.42d5ec1f.chunk.css",
+    "static/js/main.6be411aa.chunk.js"
+  ]
+}
